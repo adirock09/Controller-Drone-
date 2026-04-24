@@ -1,7 +1,8 @@
 
 # DroneController
 I made a custom Drone Controller based on STM32F401CBUx and has IMU and barometer and has a USB-B Type. It is designed for 4 motor drone.
-<br><img width="780" height="889" alt="Screenshot (244)" src="https://github.com/user-attachments/assets/c92d24d2-da4a-4e6f-88e6-6f20b27cf389" />
+<br><img width="1105" height="898" alt="Screenshot 2026-04-24 122051" src="https://github.com/user-attachments/assets/3983dfb9-58a3-4894-9fd0-64ee2cb560e0" />
+
 
 <br>
 
@@ -14,23 +15,26 @@ I made a custom Drone Controller based on STM32F401CBUx and has IMU and baromete
 - ## Bill of Materials (BOM)
 | Serial Num | Description | Total (USD) | 
 |----:|--------------------------|-------------|
-| 1  | PCB and Assembly  |69.46 |
-| 2 | Shipping JLCPCB  |19.51 |
+| 1  | PCB and Assembly  |127.46 |
+| 2 | Shipping JLCPCB  |14.35 |
 
 
 ### 💰 Cost Summary
 
-- **Estimated Total Cost ( PCB ASSEMBLY + Shipping):** **$88.97	 USD**
+- **Estimated Total Cost ( PCB ASSEMBLY + Shipping):** **$141.81	 USD**
  ## Schematic & PCB<br>
- <img width="1089" height="728" alt="Screenshot (240)" src="https://github.com/user-attachments/assets/758f3f92-3554-4fd0-91f7-aa52cc8b4eee" /><br>
-<img width="801" height="572" alt="Screenshot (242)" src="https://github.com/user-attachments/assets/7dba9956-6a91-4ab2-9bf1-c7f8137abdc1" />
+ 
+<img width="1298" height="825" alt="Screenshot 2026-04-24 122129" src="https://github.com/user-attachments/assets/028ff57c-20e9-4930-b8d4-cd55e8ff68f3" />
+<img width="1105" height="714" alt="Screenshot 2026-04-24 121856" src="https://github.com/user-attachments/assets/5c8d48e6-56bf-41c5-85d7-140aa6bb90a7" />
 
 <br>
 
 
 # 3d Render<br>
+<img width="1105" height="898" alt="Screenshot 2026-04-24 122051" src="https://github.com/user-attachments/assets/2bd13b82-26e8-4d26-9748-b059ed0e79d6" />
+<img width="1148" height="763" alt="Screenshot 2026-04-24 122040" src="https://github.com/user-attachments/assets/bad9f6c1-8732-4a69-b063-994bcaedf59d" />
 
-<img width="780" height="889" alt="Screenshot (244)" src="https://github.com/user-attachments/assets/391427af-23b6-40e4-b531-7a4f8de67c7d" /> <br>
+
 
   <br>
 
